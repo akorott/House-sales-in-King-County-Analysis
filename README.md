@@ -1,6 +1,6 @@
 # House-sales-in-King-County-Analysis
 
-The dataset was downloaded from Kaggle.com and consists of over 12,000 house listings. 
+The dataset was downloaded from Kaggle.com and consists of over 18,000 house listings. 
 Each listing includes a number of features, such as the date posted, number of bathrooms, number of bedrooms, etc. 
 
 The analysis is divided into 3 main parts:
